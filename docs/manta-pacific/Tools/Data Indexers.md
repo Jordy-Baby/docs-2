@@ -18,6 +18,8 @@ pnpx envio init
 
 Write your event handlers, then run locally or deploy to [Envio Cloud](https://docs.envio.dev/docs/HyperIndex/hosted-service?utm_source=manta&utm_medium=partner-docs) for fully managed hosting. Manta Pacific is available on HyperSync at `https://manta.hypersync.xyz`. Follow the [quickstart](https://docs.envio.dev/docs/HyperIndex/quickstart?utm_source=manta&utm_medium=partner-docs) for full setup instructions.
 
+See Envio's [performance benchmarks](https://docs.envio.dev/docs/HyperIndex/benchmarking?utm_source=manta&utm_medium=partner-docs).
+
 ## Goldsky
 
 [​Index Manta Pacific with Goldsky](https://docs.goldsky.com/chains/manta#overview)
