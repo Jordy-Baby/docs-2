@@ -2,7 +2,7 @@
 
 ## Envio
 
-[Index Manta Pacific with Envio](https://docs.envio.dev/docs/HyperIndex/overview?utm_source=manta&utm_medium=partner-docs)
+[Index Manta Pacific with Envio](https://envio.dev/?utm_source=manta&utm_medium=partner-docs)
 
 ### Overview
 
