@@ -6,7 +6,7 @@
 
 ### Overview
 
-Envio is the data layer for blockchain apps. It gives Manta Pacific developers the fastest, most flexible way to get real-time and historical onchain data, from a single GraphQL API to raw high-speed access, with managed hosting on Envio Cloud. On Manta Pacific, HyperIndex is powered by HyperSync for historical syncs up to 2000x faster than traditional RPC. HyperIndex supports real-time and historical data with reorg support, event handlers in TypeScript, JavaScript, or ReScript, and multichain data aggregation across EVM and non-EVM networks.
+Envio builds custom blockchain APIs and analytics. Manta Pacific developers can use HyperIndex to choose the contracts and events to track, write TypeScript handlers and query the result through a GraphQL API, then run it themselves or deploy to Envio Cloud. HyperSync serves Manta Pacific logs, transactions and blocks, filtered on the server. HyperIndex handles reorgs and can aggregate data across EVM and non-EVM networks.
 
 ### Getting started
 
